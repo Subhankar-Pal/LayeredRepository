@@ -1,0 +1,14 @@
+D:\LayeredWebApi\EmployeeRepositories\bin\Debug\net6.0\EmployeeRepositories.deps.json
+D:\LayeredWebApi\EmployeeRepositories\bin\Debug\net6.0\EmployeeRepositories.runtimeconfig.json
+D:\LayeredWebApi\EmployeeRepositories\bin\Debug\net6.0\EmployeeRepositories.dll
+D:\LayeredWebApi\EmployeeRepositories\bin\Debug\net6.0\EmployeeRepositories.pdb
+D:\LayeredWebApi\EmployeeRepositories\obj\Debug\net6.0\EmployeeRepositories.csproj.AssemblyReference.cache
+D:\LayeredWebApi\EmployeeRepositories\obj\Debug\net6.0\EmployeeRepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\LayeredWebApi\EmployeeRepositories\obj\Debug\net6.0\EmployeeRepositories.AssemblyInfoInputs.cache
+D:\LayeredWebApi\EmployeeRepositories\obj\Debug\net6.0\EmployeeRepositories.AssemblyInfo.cs
+D:\LayeredWebApi\EmployeeRepositories\obj\Debug\net6.0\EmployeeRepositories.csproj.CoreCompileInputs.cache
+D:\LayeredWebApi\EmployeeRepositories\obj\Debug\net6.0\EmployeeRepositories.dll
+D:\LayeredWebApi\EmployeeRepositories\obj\Debug\net6.0\refint\EmployeeRepositories.dll
+D:\LayeredWebApi\EmployeeRepositories\obj\Debug\net6.0\EmployeeRepositories.pdb
+D:\LayeredWebApi\EmployeeRepositories\obj\Debug\net6.0\EmployeeRepositories.genruntimeconfig.cache
+D:\LayeredWebApi\EmployeeRepositories\obj\Debug\net6.0\ref\EmployeeRepositories.dll
